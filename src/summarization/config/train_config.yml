@@ -1,0 +1,12 @@
+data:
+  max_input_length: 1024
+  max_output_length: 512
+
+model:
+  checkpoint: allenai/led-base-16384
+  batchsize: 1
+
+training:
+  eval_steps: 250
+  save_steps: 250
+  epochs: 10
