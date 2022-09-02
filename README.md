@@ -4,6 +4,8 @@
 
 ## Data
 
+*  The data was obtained through an agreement with the Canadian Legal Information Institute (CanLII) (https://www.canlii.org/en/)
+
 * To request the annotated data for both summaries and articles with argument roles , please contact Dr. Kevin D. Ashley (ashley@pitt.edu)
 
 ## The code is split into two parts 
@@ -11,6 +13,8 @@
 - Document Summaization [[link](https://github.com/EngSalem/arglegalsumm/tree/master/src/summarization)]
 
 * The argument classification uses by default *Legalbert* while the Document summarization uses by default the *Logformer Encoder-Decoder*.
+
+
 
 ## To run the code
 
