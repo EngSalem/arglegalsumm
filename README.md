@@ -4,9 +4,7 @@
 
 ## Data
 
-*  The data was obtained through an agreement with the Canadian Legal Information Institute (CanLII) (https://www.canlii.org/en/)
-
-* To request the annotated data for both summaries and articles with argument roles , please contact Dr. Kevin D. Ashley (ashley@pitt.edu)
+*  To request the annotations of both summaries and articles with argument roles , please contact Dr. Kevin D. Ashley (ashley@pitt.edu).  However, you must first obtain the unannotated data through an agreement with the Canadian Legal Information Institute (CanLII) (https://www.canlii.org/en/)
 
 ## The code is split into two parts 
 - Argument Classification [[link](https://github.com/EngSalem/arglegalsumm/tree/master/src/argument_classification)]
