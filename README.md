@@ -1,6 +1,6 @@
 # ArgLegalSumm
 
-* This repository contains the source code for the paper "ArgLegalSumm: Improving Abstractive Summarization of Legal Documents with Argument Mining" to appeat at COLING 2022
+* This repository contains the source code for the paper "ArgLegalSumm: Improving Abstractive Summarization of Legal Documents with Argument Mining" to appeat at COLING 2022"
 
 ## Data
 
