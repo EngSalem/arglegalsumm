@@ -47,12 +47,12 @@
 If you are going to follow up on this project please cite this work using the following bibtext:*
 
 
-'''
+```
 @article{elaraby2022arglegalsumm,
   title={ArgLegalSumm: Improving Abstractive Summarization of Legal Documents with Argument Mining},
   author={Elaraby, Mohamed and Litman, Diane},
   journal={arXiv preprint arXiv:2209.01650},
   year={2022}
 }
-'''
+```
 
