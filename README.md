@@ -48,11 +48,18 @@ If you are going to follow up on this project please cite this work using the fo
 
 
 ```
-@article{elaraby2022arglegalsumm,
-  title={ArgLegalSumm: Improving Abstractive Summarization of Legal Documents with Argument Mining},
-  author={Elaraby, Mohamed and Litman, Diane},
-  journal={arXiv preprint arXiv:2209.01650},
-  year={2022}
+@inproceedings{elaraby-litman-2022-arglegalsumm,
+    title = "{A}rg{L}egal{S}umm: Improving Abstractive Summarization of Legal Documents with Argument Mining",
+    author = "Elaraby, Mohamed  and
+      Litman, Diane",
+    booktitle = "Proceedings of the 29th International Conference on Computational Linguistics",
+    month = oct,
+    year = "2022",
+    address = "Gyeongju, Republic of Korea",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://aclanthology.org/2022.coling-1.540",
+    pages = "6187--6194",
+    abstract = "A challenging task when generating summaries of legal documents is the ability to address their argumentative nature. We introduce a simple technique to capture the argumentative structure of legal documents by integrating argument role labeling into the summarization process. Experiments with pretrained language models show that our proposed approach improves performance over strong baselines.",
 }
 ```
 
